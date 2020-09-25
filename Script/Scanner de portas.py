@@ -4,6 +4,7 @@ import socket
 
 
 def portscan(porta):
+    # Inserir o endereço ip local, por exemplo:
     target = '192.168.0.1'
 
     try:
